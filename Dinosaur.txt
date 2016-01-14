@@ -1,4 +1,8 @@
 Pterodactyl_Bobs
 Triceratops_Janes
 Velociraptor_Dicks
+<<<<<<< HEAD
+Tyler_dinosaurus
+=======
 Brontosaurus_Amy
+>>>>>>> 0e54e45ec29cbf7dabb1952533a2eedc2eb9459c
